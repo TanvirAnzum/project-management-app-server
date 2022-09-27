@@ -1,0 +1,51 @@
+[
+  {
+    "email": "sumit@lws.com",
+    "password": "$2a$10$sEfnLejCfOHWJ5WMR1FNjuC9O9r9FeYm2AyphbjTLEfWUyNrxqEF6",
+    "name": "Sumit Saha",
+    "id": 1,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=Hat&accessoriesType=Blank&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light"
+  },
+  {
+    "email": "tanvir@gmail.com",
+    "password": "$2a$10$Z.bRFC3PlQPS/8AIw6RrnuxC3FgjzSzvt5pyDuKxfBbwk.TNk9ZP2",
+    "name": "tanvir",
+    "id": 27,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=WinterHat3&accessoriesType=Prescription02&hatColor=Black&facialHairType=BeardMajestic&facialHairColor=Auburn&clotheType=ShirtVNeck&clotheColor=PastelYellow&eyeType=Side&eyebrowType=UpDownNatural&mouthType=Disbelief&skinColor=Light"
+  },
+  {
+    "email": "risha@gmail.com",
+    "password": "$2a$10$sEfnLejCfOHWJ5WMR1FNjuC9O9r9FeYm2AyphbjTLEfWUyNrxqEF6",
+    "name": "Nadia Afrin",
+    "id": 28,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairShavedSides&accessoriesType=Prescription01&facialHairType=Blank&clotheType=ShirtScoopNeck&clotheColor=Blue01&eyeType=Wink&eyebrowType=Default&mouthType=Twinkle&skinColor=Pale"
+  },
+  {
+    "email": "test1@gmail.com",
+    "password": "$2a$10$sEfnLejCfOHWJ5WMR1FNjuC9O9r9FeYm2AyphbjTLEfWUyNrxqEF6",
+    "name": "test1",
+    "id": 2,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairShavedSides&accessoriesType=Prescription01&facialHairType=Blank&clotheType=ShirtScoopNeck&clotheColor=Blue01&eyeType=Wink&eyebrowType=Default&mouthType=Twinkle&skinColor=Pale"
+  },
+  {
+    "email": "test2@gmail.com",
+    "password": "$2a$10$sEfnLejCfOHWJ5WMR1FNjuC9O9r9FeYm2AyphbjTLEfWUyNrxqEF6",
+    "name": "test2",
+    "id": 3,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairShavedSides&accessoriesType=Prescription01&facialHairType=Blank&clotheType=ShirtScoopNeck&clotheColor=Blue01&eyeType=Wink&eyebrowType=Default&mouthType=Twinkle&skinColor=Pale"
+  },
+  {
+    "email": "test3@gmail.com",
+    "password": "$2a$10$sEfnLejCfOHWJ5WMR1FNjuC9O9r9FeYm2AyphbjTLEfWUyNrxqEF6",
+    "name": "test3",
+    "id": 4,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairShavedSides&accessoriesType=Prescription01&facialHairType=Blank&clotheType=ShirtScoopNeck&clotheColor=Blue01&eyeType=Wink&eyebrowType=Default&mouthType=Twinkle&skinColor=Pale"
+  },
+  {
+    "email": "test4@gmail.com",
+    "password": "$2a$10$sEfnLejCfOHWJ5WMR1FNjuC9O9r9FeYm2AyphbjTLEfWUyNrxqEF6",
+    "name": "test4",
+    "id": 5,
+    "img": "https://avataaars.io/?avatarStyle=Circle&topType=LongHairShavedSides&accessoriesType=Prescription01&facialHairType=Blank&clotheType=ShirtScoopNeck&clotheColor=Blue01&eyeType=Wink&eyebrowType=Default&mouthType=Twinkle&skinColor=Pale"
+  }
+]
